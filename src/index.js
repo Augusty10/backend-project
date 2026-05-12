@@ -25,15 +25,6 @@ app.on("error", (error) => {
   
 })
 
-
-
-
-
-
-
-
-
-
 /*
  
 //first approch 
